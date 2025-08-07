@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-C++-blue?logo=c%2B%2B)
 ![IDE](https://img.shields.io/badge/IDE-CLion-green?logo=jetbrains)
-![Git](https://img.shields.io/badge/version-control-git-orange?logo=git)
+![Git](https://img.shields.io/badge/version--control-git-orange?logo=git)
 ![Progress](https://img.shields.io/badge/status-learning-informational)
 
 > "스스로 프로그래밍하는 능력을 키우는 C++" 강의 학습 기록  
