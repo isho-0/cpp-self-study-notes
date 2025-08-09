@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  cout << "WWW.\"LJJ\"CODING.CO.KR" << endl;
+    cout << "WWW.\"LJJ\"CODING.CO.KR" << endl;
 
-  return 0;
+    return 0;
 }
