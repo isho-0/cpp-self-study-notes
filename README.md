@@ -101,7 +101,7 @@ git commit -m "docs: week03 수업 노트 정리"
 
 ## 🙋‍♂️ About Me
 
-- GitHub: [@isho](https://github.com/isho-cpp)
-- Blog: [isho’s Dev Playground](https://your-blog-link.com)
+- GitHub: [@isho](https://github.com/isho-0)
+- Blog: [isho’s Dev Playground](https://isho-0.github.io/)
 
 ```
