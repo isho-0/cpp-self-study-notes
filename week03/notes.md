@@ -159,7 +159,7 @@ int main()
 | problem05 |           for문을 이용한 3~10 출력              |   ✅   |
 | problem06 |            입력받은 구간의 정수 출력             |   ✅   |
 | problem07 |            문자열 25번 반복 출력             |   ✅   |
-| problem08 |                         |   ✅   |
+| problem08 |            입력값만큼 ## 출력             |   ✅   |
 | problem09 |                         |   ✅   |
 | problem10 |                         |   ✅   |
 | problem11 |                         |   ✅   |
