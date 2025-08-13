@@ -146,48 +146,48 @@ int main()
 
 ---
 
-## 🔄 실습 문제 정리
+## ✅ 실습 문제 정리
 
 - 숙제 연습문제
 
 |   문제 번호   | 문제 이름 | 풀이 여부 |
 |:---------:|:-----:|:-----:|
-| problem01 |       |   🔄   |
-| problem02 |       |   🔄   |
-| problem03 |       |   🔄   |
-| problem04 |       |   🔄   |
-| problem05 |       |   🔄   |
-| problem06 |       |   🔄   |
-| problem07 |       |   🔄   |
-| problem08 |       |   🔄   |
-| problem09 |       |   🔄   |
-| problem10 |       |   🔄   |
-| problem11 |       |   🔄   |
-| problem12 |       |   🔄   |
-| problem13 |       |   🔄   |
-| problem14 |       |   🔄   |
-| problem15 |       |   🔄   |
+| problem01 |       |   ✅   |
+| problem02 |       |   ✅   |
+| problem03 |       |   ✅   |
+| problem04 |       |   ✅   |
+| problem05 |       |   ✅   |
+| problem06 |       |   ✅   |
+| problem07 |       |   ✅   |
+| problem08 |       |   ✅   |
+| problem09 |       |   ✅   |
+| problem10 |       |   ✅   |
+| problem11 |       |   ✅   |
+| problem12 |       |   ✅   |
+| problem13 |       |   ✅   |
+| problem14 |       |   ✅   |
+| problem15 |       |   ✅   |
 
 
 - 복습 문제
 
 |  문제 번호   | 문제 이름 | 풀이 여부  |
 |:--------:|:-----:|:------:|
-| review01 |       |   🔄   |
-| review02 |       |   🔄   |
-| review03 |       |   🔄    |
-| review04 |       |   🔄    |
-| review05 |       |   🔄    |
-| review06 |       |   🔄    |
-| review07 |       |   🔄    |
-| review08 |       |   🔄    |
-| review09 |       |   🔄    |
-| review10 |       |   🔄    |
-| review11 |       |   🔄    |
-| review12 |       |   🔄    |
-| review13 |       |   🔄    |
-| review14 |       |   🔄    |
-| review15 |       |   🔄    |
+| review01 |       |   ✅   |
+| review02 |       |   ✅   |
+| review03 |       |   ✅    |
+| review04 |       |   ✅    |
+| review05 |       |   ✅    |
+| review06 |       |   ✅    |
+| review07 |       |   ✅    |
+| review08 |       |   ✅    |
+| review09 |       |   ✅    |
+| review10 |       |   ✅    |
+| review11 |       |   ✅    |
+| review12 |       |   ✅    |
+| review13 |       |   ✅    |
+| review14 |       |   ✅    |
+| review15 |       |   ✅    |
 
 ---
 
