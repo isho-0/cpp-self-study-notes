@@ -160,9 +160,8 @@ int main()
 | problem06 |            입력받은 구간의 정수 출력             |   ✅   |
 | problem07 |            문자열 25번 반복 출력             |   ✅   |
 | problem08 |            입력값만큼 ## 출력             |   ✅   |
-| problem09 |                         |   ✅   |
-| problem10 |                         |   ✅   |
 | problem09 |           10부터 1까지 역순 출력              |   ✅   |
+| problem10 |             Magic 출력 조건문 예제            |   ✅   |
 | problem11 |                         |   ✅   |
 | problem12 |                         |   ✅   |
 | problem13 |                         |   ✅   |
