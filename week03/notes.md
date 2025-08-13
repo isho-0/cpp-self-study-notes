@@ -162,6 +162,7 @@ int main()
 | problem08 |            입력값만큼 ## 출력             |   ✅   |
 | problem09 |                         |   ✅   |
 | problem10 |                         |   ✅   |
+| problem09 |           10부터 1까지 역순 출력              |   ✅   |
 | problem11 |                         |   ✅   |
 | problem12 |                         |   ✅   |
 | problem13 |                         |   ✅   |
