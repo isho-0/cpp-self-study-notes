@@ -156,7 +156,7 @@ int main()
 | problem02 |     두 수 비교하여 큰 값 찾기     |   ✅   |
 | problem03 |             특정 값(5 또는 10) 판별            |   ✅   |
 | problem04 |          두 값이 모두 특정 값인지 판별               |   ✅   |
-| problem05 |                         |   ✅   |
+| problem05 |           for문을 이용한 3~10 출력              |   ✅   |
 | problem06 |                         |   ✅   |
 | problem07 |                         |   ✅   |
 | problem08 |                         |   ✅   |
