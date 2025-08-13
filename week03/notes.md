@@ -150,23 +150,23 @@ int main()
 
 - 숙제 연습문제
 
-|   문제 번호   | 문제 이름 | 풀이 여부 |
-|:---------:|:-----:|:-----:|
-| problem01 |       |   ✅   |
-| problem02 |       |   ✅   |
-| problem03 |       |   ✅   |
-| problem04 |       |   ✅   |
-| problem05 |       |   ✅   |
-| problem06 |       |   ✅   |
-| problem07 |       |   ✅   |
-| problem08 |       |   ✅   |
-| problem09 |       |   ✅   |
-| problem10 |       |   ✅   |
-| problem11 |       |   ✅   |
-| problem12 |       |   ✅   |
-| problem13 |       |   ✅   |
-| problem14 |       |   ✅   |
-| problem15 |       |   ✅   |
+|   문제 번호   |        문제 이름        | 풀이 여부 |
+|:---------:|:-------------------:|:-----:|
+| problem01 | 숫자 크기 비교로 메시지 출력하기  |   ✅   |
+| problem02 |                     |   ✅   |
+| problem03 |                     |   ✅   |
+| problem04 |                     |   ✅   |
+| problem05 |                     |   ✅   |
+| problem06 |                     |   ✅   |
+| problem07 |                     |   ✅   |
+| problem08 |                     |   ✅   |
+| problem09 |                     |   ✅   |
+| problem10 |                     |   ✅   |
+| problem11 |                     |   ✅   |
+| problem12 |                     |   ✅   |
+| problem13 |                     |   ✅   |
+| problem14 |                     |   ✅   |
+| problem15 |                     |   ✅   |
 
 
 - 복습 문제
