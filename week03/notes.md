@@ -164,7 +164,7 @@ int main()
 | problem10 |             Magic 출력 조건문 예제            |   ✅   |
 | problem11 |             0부터 N까지 출력하기            |   ✅   |
 | problem12 |             세 수의 합과 곱 비교하기            |   ✅   |
-| problem13 |                         |   ✅   |
+| problem13 |             합이 10 초과일 때 곱 출력하기            |   ✅   |
 | problem14 |                         |   ✅   |
 | problem15 |                         |   ✅   |
 
