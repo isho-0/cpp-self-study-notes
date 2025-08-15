@@ -145,7 +145,7 @@ int main()
 | problem05 |  배열에서 두 인덱스 값의 합 구하기   |   ✅   |
 | problem06 |       배열 값 조건 판단       |   ✅   |
 | problem07 |      배열 값 조작 후 출력      |   ✅   |
-| problem08 |                        |  🔄   |
+| problem08 |     조건에 따른 반복문 실행      |   ✅   |
 | problem09 |                        |  🔄   |
 | problem10 |                        |  🔄   |
 | problem11 |                        |  🔄   |
