@@ -1,3 +1,15 @@
-//
-// Created by Enyo on 8/15/25.
-//
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int arr[6] = {3, 4, 1, 6, 7, 5};
+
+    int a, b;
+
+    cin >> a >> b;
+
+    cout << arr[a] + arr[b] << endl;
+
+    return 0;
+}
