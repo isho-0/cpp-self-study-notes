@@ -144,7 +144,7 @@ int main()
 | problem04 |   입력값 기반 배열 초기화 및 출력   |   ✅   |
 | problem05 |  배열에서 두 인덱스 값의 합 구하기   |   ✅   |
 | problem06 |       배열 값 조건 판단       |   ✅   |
-| problem07 |                        |  🔄   |
+| problem07 |      배열 값 조작 후 출력      |   ✅   |
 | problem08 |                        |  🔄   |
 | problem09 |                        |  🔄   |
 | problem10 |                        |  🔄   |
