@@ -146,7 +146,7 @@ int main()
 | problem06 |       배열 값 조건 판단       |   ✅   |
 | problem07 |      배열 값 조작 후 출력      |   ✅   |
 | problem08 |     조건에 따른 반복문 실행      |   ✅   |
-| problem09 |                        |  🔄   |
+| problem09 |        배열 역순 출력        |   ✅   |
 | problem10 |                        |  🔄   |
 | problem11 |                        |  🔄   |
 | problem12 |                        |  🔄   |
