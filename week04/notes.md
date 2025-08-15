@@ -141,7 +141,7 @@ int main()
 | problem01 |    5개의 숫자 입력받아 출력하기    |   ✅   |
 | problem02 |     배열에서 인덱스로 값 찾기     |   ✅   |
 | problem03 | 배열의 첫 번째와 마지막 요소 합 구하기 |   ✅   |
-| problem04 |                        |  🔄   |
+| problem04 |   입력값 기반 배열 초기화 및 출력   |   ✅   |
 | problem05 |                        |  🔄   |
 | problem06 |                        |  🔄   |
 | problem07 |                        |  🔄   |
