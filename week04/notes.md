@@ -136,20 +136,20 @@ int main()
 
 - 숙제 연습문제
 
-|   문제 번호   | 문제 이름 | 풀이 여부 |
-|:---------:|:-----:|:-----:|
-| problem01 |       |  🔄   |
-| problem02 |       |  🔄   |
-| problem03 |       |  🔄   |
-| problem04 |       |  🔄   |
-| problem05 |       |  🔄   |
-| problem06 |       |  🔄   |
-| problem07 |       |  🔄   |
-| problem08 |       |  🔄   |
-| problem09 |       |  🔄   |
-| problem10 |       |  🔄   |
-| problem11 |       |  🔄   |
-| problem12 |       |  🔄   |
+|   문제 번호   |      문제 이름       | 풀이 여부 |
+|:---------:|:----------------:|:-----:|
+| problem01 | 5개의 숫자 입력받아 출력하기 |   ✅   |
+| problem02 |                  |  🔄   |
+| problem03 |                  |  🔄   |
+| problem04 |                  |  🔄   |
+| problem05 |                  |  🔄   |
+| problem06 |                  |  🔄   |
+| problem07 |                  |  🔄   |
+| problem08 |                  |  🔄   |
+| problem09 |                  |  🔄   |
+| problem10 |                  |  🔄   |
+| problem11 |                  |  🔄   |
+| problem12 |                  |  🔄   |
 
 - 복습 문제
 
