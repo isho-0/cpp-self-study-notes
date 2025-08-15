@@ -1,3 +1,19 @@
-//
-// Created by Enyo on 8/15/25.
-//
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int arr[6];
+
+    int n;
+
+    cin >> n;
+
+    for (int i = 0; i < 6; i++) {
+        arr[i] = n--;
+    }
+
+    cout << arr[2] << endl;
+
+    return 0;
+}
