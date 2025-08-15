@@ -148,7 +148,7 @@ int main()
 | problem08 |     조건에 따른 반복문 실행      |   ✅   |
 | problem09 |        배열 역순 출력        |   ✅   |
 | problem10 | 배열에 감소값 저장 후 특정 요소 출력  |   ✅   |
-| problem11 |                        |  🔄   |
+| problem11 |       배열 요소 합 계산       |   ✅   |
 | problem12 |                        |  🔄   |
 
 - 복습 문제
