@@ -143,7 +143,7 @@ int main()
 | problem03 | 배열의 첫 번째와 마지막 요소 합 구하기 |   ✅   |
 | problem04 |   입력값 기반 배열 초기화 및 출력   |   ✅   |
 | problem05 |  배열에서 두 인덱스 값의 합 구하기   |   ✅   |
-| problem06 |                        |  🔄   |
+| problem06 |       배열 값 조건 판단       |   ✅   |
 | problem07 |                        |  🔄   |
 | problem08 |                        |  🔄   |
 | problem09 |                        |  🔄   |
