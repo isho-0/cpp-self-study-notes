@@ -1,3 +1,16 @@
-//
-// Created by Enyo on 8/15/25.
-//
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int arr[] = {5, 7, 1, 8, -4, -73, 4, 2, 20, 84};
+    int idx;
+
+    cin >> idx;
+
+    for (int i = idx; i >= 0; i--) {
+        cout << arr[i] << endl;
+    }
+
+    return 0;
+}
