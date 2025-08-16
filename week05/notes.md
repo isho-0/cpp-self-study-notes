@@ -244,7 +244,7 @@ int main() {
 | problem10 |   배열 입력 후 역순 출력    |   ✅   |
 | problem11 |    연속된 수 배열 출력     |   ✅   |
 | problem12 |    배열 합으로 함수 호출    |   ✅   |
-| problem13 |                    |  🔄   |
+| problem13 |     배수 인덱스 출력      |   ✅   |
 
 - 복습 문제
 
