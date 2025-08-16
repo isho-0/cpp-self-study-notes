@@ -239,7 +239,7 @@ int main() {
 | problem05 |     LOT 함수 호출      |   ✅   |
 | problem06 |    함수로 특수문자 출력     |   ✅   |
 | problem07 |      배열 값 채우기      |   ✅   |
-| problem08 |                    |  🔄   |
+| problem08 |    전역 변수와 함수 호출    |   ✅   |
 | problem09 |                    |  🔄   |
 | problem10 |                    |  🔄   |
 | problem11 |                    |  🔄   |
