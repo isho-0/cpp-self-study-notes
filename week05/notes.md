@@ -230,21 +230,21 @@ int main() {
 
 - 숙제 연습문제
 
-|   문제 번호   | 문제 이름 | 풀이 여부 |
-|:---------:|:-----:|:-----:|
-| problem01 |       |  🔄   |
-| problem02 |       |  🔄   |
-| problem03 |       |  🔄   |
-| problem04 |       |  🔄   |
-| problem05 |       |  🔄   |
-| problem06 |       |  🔄   |
-| problem07 |       |  🔄   |
-| problem08 |       |  🔄   |
-| problem09 |       |  🔄   |
-| problem10 |       |  🔄   |
-| problem11 |       |  🔄   |
-| problem12 |       |  🔄   |
-| problem13 |       |  🔄   |
+|   문제 번호   |       문제 이름        | 풀이 여부 |
+|:---------:|:------------------:|:-----:|
+| problem01 | 문자 3번 출력하기 (함수 활용) |   ✅   |
+| problem02 |                    |  🔄   |
+| problem03 |                    |  🔄   |
+| problem04 |                    |  🔄   |
+| problem05 |                    |  🔄   |
+| problem06 |                    |  🔄   |
+| problem07 |                    |  🔄   |
+| problem08 |                    |  🔄   |
+| problem09 |                    |  🔄   |
+| problem10 |                    |  🔄   |
+| problem11 |                    |  🔄   |
+| problem12 |                    |  🔄   |
+| problem13 |                    |  🔄   |
 
 - 복습 문제
 
