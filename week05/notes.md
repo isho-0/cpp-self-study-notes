@@ -242,7 +242,7 @@ int main() {
 | problem08 |    전역 변수와 함수 호출    |   ✅   |
 | problem09 |   배열 출력 함수 반복 호출   |   ✅   |
 | problem10 |   배열 입력 후 역순 출력    |   ✅   |
-| problem11 |                    |  🔄   |
+| problem11 |    연속된 수 배열 출력     |   ✅   |
 | problem12 |                    |  🔄   |
 | problem13 |                    |  🔄   |
 
