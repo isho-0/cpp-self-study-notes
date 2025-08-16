@@ -237,7 +237,7 @@ int main() {
 | problem03 |   배열 인덱스로 문자 출력    |   ✅   |
 | problem04 |    조건에 따른 함수 호출    |   ✅   |
 | problem05 |     LOT 함수 호출      |   ✅   |
-| problem06 |                    |  🔄   |
+| problem06 |    함수로 특수문자 출력     |   ✅   |
 | problem07 |                    |  🔄   |
 | problem08 |                    |  🔄   |
 | problem09 |                    |  🔄   |
