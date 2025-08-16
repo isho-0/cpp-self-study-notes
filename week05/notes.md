@@ -236,7 +236,7 @@ int main() {
 | problem02 |   배열 입력 후 합계 출력    |   ✅   |
 | problem03 |   배열 인덱스로 문자 출력    |   ✅   |
 | problem04 |    조건에 따른 함수 호출    |   ✅   |
-| problem05 |                    |  🔄   |
+| problem05 |     LOT 함수 호출      |   ✅   |
 | problem06 |                    |  🔄   |
 | problem07 |                    |  🔄   |
 | problem08 |                    |  🔄   |
