@@ -258,7 +258,7 @@ int main() {
 | review06 |  구간에 해당하는 배열 원소 출력하기   |   ✅   |
 | review07 |   조건에 맞는 배열 채우기와 출력    |   ✅   |
 | review08 |     배열 양쪽 채우기와 출력      |   ✅   |
-| review09 |                        |  🔄   |
+| review09 |     배열 값 증가하며 채우기      |   ✅   |
 | review10 |                        |  🔄   |
 | review11 |                        |  🔄   |
 | review12 |                        |  🔄   |
