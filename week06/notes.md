@@ -219,8 +219,8 @@ Hello World!
 | problem04 |    문자와 ASCII 코드 출력하기    |   ✅   |
 | problem05 |      배열 문자 반복 출력하기      |   ✅   |
 | problem06 |      문자 대소문자 판별하기       |   ✅   |
-| problem07 |       정사각형 # 출력하기        |  ✅   |
-| problem08 |                         |  🔄   |
+| problem07 |       정사각형 # 출력하기       |   ✅   |
+| problem08 |    문자 → 숫자 변환 후 계산하기    |   ✅   |
 | problem09 |                         |  🔄   |
 | problem10 |                         |  🔄   |
 | problem11 |                         |  🔄   |
