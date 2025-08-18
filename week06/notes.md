@@ -211,21 +211,21 @@ Hello World!
 
 - 숙제 연습문제
 
-|   문제 번호   |         문제 이름         | 풀이 여부 |
-|:---------:|:---------------------:|:-----:|
-| problem01 | 함수 호출을 이용한 문자 입력 및 출력 |   ✅   |
-| problem02 | 문자 입력 후 ASCII 코드 값 출력 |   ✅   |
-| problem03 |  n줄 동안 1부터 5까지 출력하기   |   ✅   |
-| problem04 |                       |  🔄   |
-| problem05 |                       |  🔄   |
-| problem06 |                       |  🔄   |
-| problem07 |                       |  🔄   |
-| problem08 |                       |  🔄   |
-| problem09 |                       |  🔄   |
-| problem10 |                       |  🔄   |
-| problem11 |                       |  🔄   |
-| problem12 |                       |  🔄   |
-| problem13 |                       |  🔄   |
+|   문제 번호   |          문제 이름          | 풀이 여부 |
+|:---------:|:-----------------------:|:-----:|
+| problem01 | 함수 호출을 이용한 문자 입력 및 출력하기 |   ✅   |
+| problem02 | 문자 입력 후 ASCII 코드 값 출력하기 |   ✅   |
+| problem03 |   n줄 동안 1부터 5까지 출력하기    |   ✅   |
+| problem04 |     문자와 ASCII 코드 출력     |   ✅   |
+| problem05 |                         |  🔄   |
+| problem06 |                         |  🔄   |
+| problem07 |                         |  🔄   |
+| problem08 |                         |  🔄   |
+| problem09 |                         |  🔄   |
+| problem10 |                         |  🔄   |
+| problem11 |                         |  🔄   |
+| problem12 |                         |  🔄   |
+| problem13 |                         |  🔄   |
 
 - 복습 문제
 
