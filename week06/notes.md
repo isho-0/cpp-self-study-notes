@@ -221,7 +221,7 @@ Hello World!
 | problem06 |      문자 대소문자 판별하기       |   ✅   |
 | problem07 |       정사각형 # 출력하기       |   ✅   |
 | problem08 |    문자 → 숫자 변환 후 계산하기    |   ✅   |
-| problem09 |                         |  🔄   |
+| problem09 |    A부터 입력 문자까지 출력하기     |   ✅   |
 | problem10 |                         |  🔄   |
 | problem11 |                         |  🔄   |
 | problem12 |                         |  🔄   |
