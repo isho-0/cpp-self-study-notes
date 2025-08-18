@@ -224,7 +224,7 @@ Hello World!
 | problem09 |    A부터 입력 문자까지 출력하기     |   ✅   |
 | problem10 |      문자를 대문자로 변환하기      |   ✅   |
 | problem11 |    두 문자 사이의 알파벳 출력하기    |   ✅   |
-| problem12 |                         |  🔄   |
+| problem12 |         ABC 찾기          |   ✅   |
 | problem13 |                         |  🔄   |
 
 - 복습 문제
