@@ -234,7 +234,7 @@ Hello World!
 | review01 | 문자 2개를 입력받아 각각의 ASCII 코드 값을 출력하기 |   ✅   |
 | review02 |       입력받은 소문자부터 a까지 출력하기        |   ✅   |
 | review03 |            문자 배열 복사하기            |   ✅   |
-| review04 |                                  |  🔄   |
+| review04 |         입력한 문자의 종류 판별하기          |   ✅   |
 | review05 |                                  |  🔄   |
 | review06 |                                  |  🔄   |
 | review07 |                                  |  🔄   |
