@@ -225,7 +225,7 @@ Hello World!
 | problem10 |      문자를 대문자로 변환하기      |   ✅   |
 | problem11 |    두 문자 사이의 알파벳 출력하기    |   ✅   |
 | problem12 |         ABC 찾기          |   ✅   |
-| problem13 |        구간 반복 출력하기        |   ✅   |
+| problem13 |       구간 반복 출력하기        |   ✅   |
 
 - 복습 문제
 
@@ -237,7 +237,7 @@ Hello World!
 | review04 |         입력한 문자의 종류 판별하기          |   ✅   |
 | review05 |      배열 원소를 합한 값만큼 반복 출력하기       |   ✅   |
 | review06 |        입력된 문자 중 숫자의 개수 세기        |   ✅   |
-| review07 |                                  |  🔄   |
+| review07 |            대소문자 변환하기             |   ✅   |
 | review08 |                                  |  🔄   |
 | review09 |                                  |  🔄   |
 | review10 |                                  |  🔄   |
