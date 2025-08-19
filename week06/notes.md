@@ -235,7 +235,7 @@ Hello World!
 | review02 |       입력받은 소문자부터 a까지 출력하기        |   ✅   |
 | review03 |            문자 배열 복사하기            |   ✅   |
 | review04 |         입력한 문자의 종류 판별하기          |   ✅   |
-| review05 |                                  |  🔄   |
+| review05 |      배열 원소를 합한 값만큼 반복 출력하기       |   ✅   |
 | review06 |                                  |  🔄   |
 | review07 |                                  |  🔄   |
 | review08 |                                  |  🔄   |
