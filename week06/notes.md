@@ -239,7 +239,7 @@ Hello World!
 | review06 |        입력된 문자 중 숫자의 개수 세기        |   ✅   |
 | review07 |            대소문자 변환하기             |   ✅   |
 | review08 |         문자 배열 증가·감소 출력하기         |   ✅   |
-| review09 |                                  |  🔄   |
+| review09 |          배열 역순 반복 출력하기           |   ✅   |
 | review10 |                                  |  🔄   |
 | review11 |                                  |  🔄   |
 
