@@ -258,7 +258,7 @@ int main()
 | problem04 |     구간 내 원소 개수 세기     |   ✅   |
 | problem05 |      성적 등급 출력하기       |   ✅   |
 | problem06 |       숫자 맞추기 게임       |   ✅   |
-| problem07 |                       |  🔄   |
+| problem07 |     최댓값과 최솟값 출력하기     |   ✅   |
 | problem08 |                       |  🔄   |
 | problem09 |                       |  🔄   |
 | problem10 |                       |  🔄   |
