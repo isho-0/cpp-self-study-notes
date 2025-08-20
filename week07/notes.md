@@ -256,7 +256,7 @@ int main()
 | problem02 |        짝사랑 게임         |   ✅   |
 | problem03 |        행렬 출력하기        |   ✅   |
 | problem04 |     구간 내 원소 개수 세기     |   ✅   |
-| problem05 |                       |  🔄   |
+| problem05 |      성적 등급 출력하기       |   ✅   |
 | problem06 |                       |  🔄   |
 | problem07 |                       |  🔄   |
 | problem08 |                       |  🔄   |
