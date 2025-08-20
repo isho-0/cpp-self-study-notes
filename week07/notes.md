@@ -259,7 +259,7 @@ int main()
 | problem05 |      성적 등급 출력하기       |   ✅   |
 | problem06 |       숫자 맞추기 게임       |   ✅   |
 | problem07 |     최댓값과 최솟값 출력하기     |   ✅   |
-| problem08 |                       |  🔄   |
+| problem08 | 2차원 배열에서 홀수와 짝수 개수 세기 |   ✅   |
 | problem09 |                       |  🔄   |
 | problem10 |                       |  🔄   |
 | problem11 |                       |  🔄   |
