@@ -1,4 +1,4 @@
-# 📝 Week XX Notes
+# 📝 Week 07 Notes
 
 > 강의: 스스로 프로그래밍하는 능력을 키우는 C++  
 > 날짜: 2025년 09월 12일  
@@ -281,8 +281,8 @@ int main()
 
 ## 🔗 참고 자료
 
-- [C++ 공식 문서](https://en.cppreference.com/)
-- [cplusplus.com - Tutorial](https://cplusplus.com/doc/tutorial/)
-- [CLion 사용 가이드](https://www.jetbrains.com/help/clion/)
+- [스스로 프로그래밍 하는 능력을 키우는 C++](https://typical-slug-3ef.notion.site/LV07-2-8bb012e745a44f5694dfb3d31271aa7b)
+- [C++ 07.15 - 참조형 변수 (Reference variable)](https://boycoding.tistory.com/207)
+- [CLion 사용 가이드](https://www.jetbrains.com/help/clion/basic-editing.html)
 
 ---
