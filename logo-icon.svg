@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect x="0" y="0" width="512" height="512" rx="88" ry="88" fill="#06b6d4"/>
+
+  <!-- Open book shape -->
+  <g transform="translate(256,256)">
+    <!-- Left page -->
+    <path d="M-160 -120 h140 q20 0 20 20 v200 q0 20 -20 20 h-140 z" fill="#f8fafc" stroke="#e2e8f0" stroke-width="4"/>
+    <!-- Right page -->
+    <path d="M20 -120 h140 v240 h-140 q-20 0 -20 -20 v-200 q0 -20 20 -20 z" fill="#f8fafc" stroke="#e2e8f0" stroke-width="4"/>
+    <!-- Spine shadow -->
+    <rect x="-10" y="-120" width="20" height="240" fill="#e2e8f0"/>
+  </g>
+
+  <!-- Text "C++" in the center -->
+  <text x="256" y="276" font-family="Inter, system-ui, sans-serif" font-size="80" text-anchor="middle" fill="#0f172a" font-weight="700">C++</text>
+</svg>
